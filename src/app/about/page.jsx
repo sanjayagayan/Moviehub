@@ -13,12 +13,12 @@ export default function About() {
       <p>
         Stay informed with the latest news, insightful reviews, and exciting
         trailers. Join our community of movie lovers and dive into the magical
-        world of cinema with Moviehub.Let's embark on this cinematic
+        world of cinema with Moviehub. Let&apos;s embark on this cinematic
         journey together!
       </p>
       
       <p>
-        Let's embark on this cinematic
+        Let&apos;s embark on this cinematic
         journey together!
       </p>
     </div>
