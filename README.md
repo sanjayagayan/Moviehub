@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Moviehub 🎬
+![Moviehub](https://github.com/sanjayagayan/Moviehub/assets/70587308/51f1fbbf-7b64-4037-be0e-d4b07c7c3017)
 
-## Getting Started
+Welcome to **Moviehub**, your ultimate movie browsing destination. This project aims to provide a comprehensive and constantly updated database of movies from around the world. Search for movies by title, director, actor, genre, or release date, and stay informed with the latest news, reviews, and trailers.
 
-First, run the development server:
+## Technologies Used 🛠️
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js**: A React framework for building server-side rendered and static web applications.
+- **TMDB API**: The Movie Database API provides access to a vast collection of movie data, including information about movies, TV shows, actors, and more.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features ✨
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Extensive Movie Database**: Access a vast collection of movies from all over the world.
+- **Search Functionality**: Find movies easily by title, director, actor, genre, or release date.
+- **Latest Updates**: Our database is regularly updated with the latest releases.
+- **News and Reviews**: Stay informed with the latest news and insightful reviews.
+- **Trailers**: Watch exciting trailers of upcoming and popular movies.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation 🚀
 
-## Learn More
+1. **Clone the repository**:
 
-To learn more about Next.js, take a look at the following resources:
+    ```bash
+    git clone https://github.com/sanjayagayan/Moviehub.git
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Navigate to the project directory**:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    ```bash
+    cd Moviehub
+    ```
 
-## Deploy on Vercel
+3. **Install dependencies**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ```bash
+    npm install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. **Start the development server**:
+
+    ```bash
+    npm start
+    ```
+
+## Usage 💻
+
+- Visit `http://localhost:3000` in your browser to access the website.
+- Use the search bar to find movies by title, director, actor, genre, or release date.
+- Browse the latest news, read reviews, and watch trailers.
+
+## Contributing 🤝
+
+We welcome contributions! Please follow these steps to contribute:
+
+1. **Fork the repository.**
+2. **Create a new branch**:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+3. **Make your changes and commit them**:
+
+    ```bash
+    git commit -m "Add feature: your feature name"
+    ```
+
+4. **Push to the branch**:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+5. **Open a pull request on GitHub.**
+
+
+## Contact ☎
+If you have any questions or suggestions, please contact me at sanjayagayan.me@gmail.com or [sanjayagayan](https://sanjayagayan.me/)
+
+Happy Watching! 🎬
